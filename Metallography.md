@@ -36,4 +36,4 @@ drying with compressed air. Cleaning plate & holder with much water.
 **With manual polishing, normally you can get good sample surface with shorter polishing time.**
 
 Author: Steffen Brinckmann, IMD-1, FZJ
-<!--- version:1.0 |filename|| -->
+<!--- version:1.0 -->
