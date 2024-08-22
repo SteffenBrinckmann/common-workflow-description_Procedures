@@ -10,7 +10,9 @@
 - Button Bike "Travel order"
   - distance-controlled, relative: 100mm with 100mm/min
   - direction clear
-- Measure the sample:  |width|| and |thickness||
+- Measure the sample:
+  - |width||
+  - |thickness||
 - Mount sample: top first and then move into bottom
 - Button Setup experiment: Hammer button
   - "Test procedure, speeds", "End of test" most important
